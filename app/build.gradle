@@ -24,4 +24,6 @@ dependencies {
   implementation project(':rtplibrary')
   implementation 'com.google.android.material:material:1.0.0'
   implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+  implementation 'com.github.pedroSG94.vlc-example-streamplayer:pedrovlc:2.5.14v3'
+  implementation 'com.github.pedroSG94.vlc-example-streamplayer:libvlc:2.5.14v3'
 }
