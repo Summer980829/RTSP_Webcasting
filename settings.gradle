@@ -1,1 +1,1 @@
-include ':app', ':encoder', ':rtsp', ':rtplibrary'
+include ':app', ':encoder', ':rtsp', ':rtplibrary', ':libvlc', ':pedrovlc'
